@@ -24,8 +24,8 @@ The M7 SLA Report is a monthly business-critical dashboard used by SITA executiv
 - Ensured on-time delivery of monthly executive reports
 - Created a reusable ETL pipeline that can be scheduled via Agent jobs
 
-## 📎 Files Coming Soon
+## 📎 Files attached
 
-- `Sample_SQL_Code.sql`: Core queries used for data aggregation
+- `Sample_SQL_Code.sql`: View script for the report
 - `M7_Architecture.png`: Diagram showing ETL flow 
-- `Report_Sample_Screenshot.png`: 
+- `Report_Sample_Screenshot.png`:
