@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-The M7 SLA Report is a monthly business-critical dashboard used by SITA executives to track incident management performance. It shows metrics like the number of SLA met vs missed, response times, resolution times, and support group performance — all derived from ITSM incident data.
+The M7 SLA Report is a monthly business-critical report used by SITA executives to track incident management performance. It shows metrics like the number of SLA met vs missed, response times, resolution times. This is how the different assigned groups performance is measured.
 
 ## 🔧 Technologies Used
 
@@ -27,5 +27,5 @@ The M7 SLA Report is a monthly business-critical dashboard used by SITA executiv
 ## 📎 Files attached
 
 - `Sample_SQL_Code.sql`: View script for the report
-- `M7_Architecture.png`: Diagram showing ETL flow 
+- `M7_Architecture.png`: ![ETL Architecture](./MReport_architecture.png) 
 - `Report_Sample_Screenshot.png`:
